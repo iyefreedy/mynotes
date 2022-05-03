@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810698077102",
+    "project_id": "mynotes-freedcode",
+    "storage_bucket": "mynotes-freedcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810698077102:android:6fbd8d831b86f372258e3f",
+        "android_client_info": {
+          "package_name": "com.freedcode.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810698077102-9m8p8188t5och4udir10d9irrffdinmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtoQBSmmFaUnRlZ8kTvm4loTceK3gqL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810698077102-9m8p8188t5och4udir10d9irrffdinmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
